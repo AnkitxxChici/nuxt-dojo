@@ -2,7 +2,7 @@
    <div>
      <h2>About</h2>
      <p>JAI SHREE RAM ! </p>
-     <p>api response:</p>
+      <p>api response:</p>
      <div>{{ data }}</div>
    </div>
  </template>
@@ -18,11 +18,5 @@
  </style>
  
  <script setup>
-   // const { data } = await useFetch('/api/ninja?name=mario')
-   // const { data } = await useFetch('/api/ninja?name=mario', {
-   //   method: 'post',
-   //   body: {age: 30}
-   // })
- 
-   const { data } = await useFetch('/api/currency/INR')
+    const { data } = await useFetch('/api/currency/INR')
  </script>
