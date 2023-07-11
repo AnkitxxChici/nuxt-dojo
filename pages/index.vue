@@ -1,8 +1,8 @@
 <template>
     <div>
     <h2>Home</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis fuga aperiam ipsum quia laborum sit nam, voluptas debitis omnis autem.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere sapiente, esse veniam rerum quaerat itaque sit velit amet est.</p>
+      <p>Introducing my first project built with the power of Vue.js and Nuxt.js</p>
+      <p>Experience the seamless integration of these two technologies as we bring you a fast, responsive, and dynamic web application.</p>
     </div>
 </template>
 
